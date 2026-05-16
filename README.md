@@ -1,5 +1,5 @@
 # DBA-Assignment
-It contains the dataset and colab files for Database and Analytics Assignment 
+This repository contains the dataset and colab files for Database and Analytics Assignment 
 
 SQL in R and R Analytics: Investigates the raw data using SQL and charts to prove where NorthStar is losing money and losing customer trust.
 Data Processing and Analysis: Cleans up all the messy errors and merges the separate files into one modern, organized dataset.
